@@ -2,6 +2,8 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 [Markdown Cheatsheet Fullversion](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 is the full version of the cheatsheet.
+
+>[Back to index](../README.md)
 - - - - 
 # Heading 1 #
 
@@ -153,7 +155,7 @@ Content Cell  | Content Cell | Content Cell
           2. Which is numbered
 ~~~
 
-- [ ] An uncompleted task
+- [] An uncompleted task
 - [x] A completed task
 
 ~~~
@@ -246,3 +248,4 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+>[Return to TOP](#TOP)
