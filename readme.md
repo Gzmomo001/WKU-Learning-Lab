@@ -2,7 +2,7 @@
 This is the notes that aims at recording my learning process, and helping me to review the knowledge.
 
 # index
-- [Markdown 语法指南](Makedown_Grammar/readme.md)
+- [Markdown 语法指南](Markdown_Grammar/readme.md)
 - [NumPy 笔记](NumPy_Notes/readme.md)
 - [Pandas 笔记](Pandas_Notes/readme.md)
 - [Matplotlib 笔记](Matplotlib_Notes/readme.md)

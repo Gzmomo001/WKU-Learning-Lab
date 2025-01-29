@@ -1,5 +1,8 @@
 # Markdown 语法指南
 [English](readme_en.md)
+
+[Cheat Sheet](Cheat_Sheet.md)
+ is used to review the knowledge.
 ## 目录
 - [Markdown 语法指南](#markdown-语法指南)
   - [目录](#目录)
