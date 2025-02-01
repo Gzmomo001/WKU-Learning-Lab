@@ -2,6 +2,7 @@
 This is the notes that aims at recording my learning process, and helping me to review the knowledge.
 
 # index
+- [General Learning Skill](GenralLearningSkill.md)
 - [Markdown 语法指南](Markdown/README.md)
 - [git & github](git_github_Notes/README.md)
 - [NumPy 笔记](NumPy_Notes/README.md)
